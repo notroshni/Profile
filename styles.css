@@ -1,0 +1,35 @@
+h1 {
+    text-align:center;
+    font-family: 'Rampart One', cursive;
+color: #800080;
+}
+
+h2 { font-family: 'Dancing Script', cursive;
+}
+h2 { color: #800080;
+}
+
+p {font-family: 'Montserrat', sans-serif;
+  color: black;
+}
+
+li {
+    color: black;
+}
+
+h2:hover {
+  background-color: lightblue;
+  color: green;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+    width:250px;
+}
+
+body {
+  background-color: #E6E6FA;
+}
+
